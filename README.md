@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Aaron</h1>
-<h5 align="center"><i>(Get it?)</i></h3>
 
 - 👨‍💻 Want to check out my GitHub? Visit [here.](https://github.com/Aaron03011)
 

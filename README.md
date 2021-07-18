@@ -5,7 +5,7 @@
 
 - 📝 [I also have a website](https://aaron0301.netlify.app)
 
-- 📫 Add me on Discord with **DeJay#1337**
+- 📫 Add me on Discord with **Aa®on#0301**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

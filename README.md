@@ -11,7 +11,7 @@
   <a href="https://www.youtube.com/channel/UCI3xcS0XceKXKz6WJFWk6Vg">Youtube</a>
   <a href="https://discords.com/bio/p/aaronbiodiscord">Discord</a>
    <a href="https://github.com/Aaron03011">Github</a>
-  <a href="mailto:aaronsavagekid@gmail.com?body=message" class="icon style2 fa-envelope"><span class="label"></span></a>
+  <a href="mailto:aaronsavagekid@gmail.com?body=message" class="icon style2 fa-envelope">Gmail<span class="label"></span></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

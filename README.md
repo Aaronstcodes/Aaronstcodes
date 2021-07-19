@@ -8,7 +8,7 @@
   <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/discord.svg" />
 </a>
 <a href="https://aaron0301.netlify.app/">
-  <img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/circle-cropped.svg" />
+  <img align="left" alt="Website" width="22px" src="circle-cropped.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCI3xcS0XceKXKz6WJFWk6Vg">
   <img align="left" alt="YT" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/youtube.svg" />

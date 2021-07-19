@@ -11,13 +11,13 @@
   <img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/discord.js" />
 </a>
 <a href="https://www.youtube.com/channel/UCI3xcS0XceKXKz6WJFWk6Vg">
-  <img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/youtube.svg" />
+  <img align="left" alt="YT" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/youtube.svg" />
 </a>
 <a href="mailto:aaronsavagekid@gmail.com?body=message">
-  <img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/mail.svg" />
+  <img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/mail.svg" />
 </a>
 <a href="https://codepen.io/aaron03011">
-  <img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/mail.svg" />
+  <img align="left" alt="Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/mail.svg" />
 </a>
 <br/>
 <br/>

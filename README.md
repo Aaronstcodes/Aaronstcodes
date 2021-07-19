@@ -28,10 +28,10 @@
 <br/>
 
 <a href="https://github.com/MrHarshArora">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrHarshArora&show_icons=true&theme=blue-green&layout=compact" alt="evildevill GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aaron03011&show_icons=true&theme=blue-green&layout=compact" alt="evildevill GitHub Stats" />
 </a>
 <a href="https://github.com/MrHarshArora">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHarshArora&show_icons=true&theme=blue-green&layout=compact" alt"Most use languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron03011&show_icons=true&theme=blue-green&layout=compact" alt"Most use languages"/>
 </a>
 <br />
 

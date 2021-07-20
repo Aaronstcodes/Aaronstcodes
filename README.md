@@ -28,12 +28,12 @@
 <br/>
 
 <a href="https://github.com/Aaron03011">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aaron03011&show_icons=true&theme=blue-green&layout=compact" alt="evildevill GitHub Stats" />
-</a>
-<a href="https://github.com/Aaron03011">
   <img src="https://github-readme-stats.vercel.app/api?username=aaron03011&show_icons=true&theme=radical" alt"Most use languages"/>
 </a>
-
+<a href="https://github.com/Aaron03011">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+" alt="Languages" />
+</a>
 <br />
 
 *************

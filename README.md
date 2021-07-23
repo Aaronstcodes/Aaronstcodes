@@ -37,10 +37,7 @@
 <a href="https://github.com/Aaron03011">
   <img src="https://badges.pufler.dev/years/Aaron03011" alt="Languages" />
 </a>
-<a href="https://github.com/Aaron03011">
-  <img src="
-https://badges.pufler.dev/gists/Aaron03011" alt="Languages" />
-</a>
+
 <br />
 
 

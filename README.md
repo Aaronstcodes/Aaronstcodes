@@ -19,6 +19,7 @@
 <a href="https://codepen.io/aaron03011">
   <img align="left" alt="Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/codepen.svg" />
 </a>
+
 <br/>
 <br/>
 
@@ -36,7 +37,10 @@
 <a href="https://github.com/Aaron03011">
   <img src="https://badges.pufler.dev/years/Aaron03011" alt="Languages" />
 </a>
-
+<a href="https://github.com/Aaron03011">
+  <img src="
+https://badges.pufler.dev/gists/Aaron03011" alt="Languages" />
+</a>
 <br />
 
 

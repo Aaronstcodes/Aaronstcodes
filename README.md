@@ -41,7 +41,7 @@
 <br />
 
 
-<h2 align="center">Visitor's count</h2>
+<h2 align="center">Visits</h2>
 
 <p align="center"><img src="https://profile-counter.glitch.me/Aaron03011/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 

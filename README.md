@@ -1,5 +1,5 @@
 <h2>Hi, I'm Aaron Savin Thomas! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.mp4" width="230">
+<img align='right' src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/source.gif" width="230">
 <br/>
 <a href="https://github.com/Aaron03011">
   <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" />

@@ -23,9 +23,8 @@
 <br/>
 <br/>
 
-### Hi 🙋‍♂️,
-### I'm 11 Years old Programmer | Programmer | Editor | Devloper from India.
 
+### Hi 🙋‍♂️, I'm a | Programmer | Video Editor | Developer | Photo Editor(Photoshop) from India.
 <br/>
 
 <a href="https://github.com/Aaronstcodes">

@@ -4,7 +4,7 @@
 <a href="https://github.com/Aaron03011">
   <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" />
 </a>
-<a href="https://discord.bio/p/aaronbiodiscord">
+<a href="https://discord.com/users/777599252834156564">
   <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/discord.svg" />
 </a>
 <a href="https://aaron0301.netlify.app/">

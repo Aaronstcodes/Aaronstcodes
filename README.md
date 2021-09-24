@@ -41,8 +41,7 @@
 
 
 <h2 align="center">Visits</h2>
-
-<p align="center"><img src="https://profile-counter.glitch.me/Aaron03011/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<div align='center'><a href='https://www.hit-counts.com/'><img src='http://www.hit-counts.com/counter.php?t=MTQ1OTYxMg==' border='0' alt='logo designers'></a><BR><a href='https://www.glowgraphics.co.uk/'>logo designers</a></div>
 
 <br>
 <br />

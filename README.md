@@ -41,7 +41,7 @@
 
 
 <h2 align="center">Visits</h2>
-<div align='center'><a href='https://www.hit-counts.com/'><img src='http://www.hit-counts.com/counter.php?t=MTQ1OTYxMg==' border='0' alt='logo designers'></a><BR><a href='https://www.glowgraphics.co.uk/'>logo designers</a></div>
+<div align='center'><a href='https://www.hit-counts.com/'><img src='http://www.hit-counts.com/counter.php?t=MTQ1OTYxMw==' border='0' alt='logo designers'></a>
 
 <br>
 <br />

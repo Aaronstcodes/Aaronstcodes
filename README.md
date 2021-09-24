@@ -45,11 +45,8 @@
 <p align="center"><img src="https://profile-counter.glitch.me/Aaron03011/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
 <br>
-*************
-
 <br />
 
-### Languages and Tools...
 <p align="center">
   
 ### Languages and Tools:
